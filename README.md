@@ -1,2 +1,2 @@
 # nls-remote-repo
-Linux training devops 
+This change will be pulled from origin/master to README.md.
